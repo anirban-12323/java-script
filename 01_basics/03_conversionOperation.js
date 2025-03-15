@@ -18,7 +18,14 @@ let StringNumber=String(someNumber)
 // console.log(1+2+"2");
 let x=2
 const y=x++
-console.log("x",x,"y",y);
+// console.log("x",x,"y",y);
 let a=2
 const b=++a
-console.log("a",a,"b",b);
+//console.log("a",a,"b",b);
+console.log(null>0);
+console.log(null<0);
+console.log(null==0);
+console.log(null>=0);
+console.log(null<=0);
+
+
